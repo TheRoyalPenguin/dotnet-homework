@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4HW-LINQ", "4HW-LINQ\4HW-LI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6HW-EF", "6HW-EF\6HW-EF.csproj", "{8655693D-4CB4-444A-9C35-C8E78E0B6889}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7HW-FindExpertsTG", "7HW-FindExpertsTG\7HW-FindExpertsTG.csproj", "{FF10A2BC-5B96-42EB-AA4C-08BB819869DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7HW-Libraries", "7HW-Libraries\7HW-Libraries.csproj", "{37333E78-FF01-4148-90C9-B6C5D41ECEDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{8655693D-4CB4-444A-9C35-C8E78E0B6889}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8655693D-4CB4-444A-9C35-C8E78E0B6889}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8655693D-4CB4-444A-9C35-C8E78E0B6889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF10A2BC-5B96-42EB-AA4C-08BB819869DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF10A2BC-5B96-42EB-AA4C-08BB819869DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF10A2BC-5B96-42EB-AA4C-08BB819869DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF10A2BC-5B96-42EB-AA4C-08BB819869DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37333E78-FF01-4148-90C9-B6C5D41ECEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37333E78-FF01-4148-90C9-B6C5D41ECEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37333E78-FF01-4148-90C9-B6C5D41ECEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37333E78-FF01-4148-90C9-B6C5D41ECEDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
