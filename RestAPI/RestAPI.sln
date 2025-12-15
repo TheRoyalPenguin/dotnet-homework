@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7HW-FindExpertsTG", "7HW-Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7HW-Libraries", "7HW-Libraries\7HW-Libraries.csproj", "{37333E78-FF01-4148-90C9-B6C5D41ECEDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC-UserService", "gRPC-UserService\gRPC-UserService.csproj", "{DBD100A6-415B-4E3F-86EF-3E235B495615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC-Client", "gRPC-Client\gRPC-Client.csproj", "{8B6CE138-596E-4232-A949-A0D1FDD8478C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{37333E78-FF01-4148-90C9-B6C5D41ECEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37333E78-FF01-4148-90C9-B6C5D41ECEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37333E78-FF01-4148-90C9-B6C5D41ECEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD100A6-415B-4E3F-86EF-3E235B495615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD100A6-415B-4E3F-86EF-3E235B495615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD100A6-415B-4E3F-86EF-3E235B495615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD100A6-415B-4E3F-86EF-3E235B495615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6CE138-596E-4232-A949-A0D1FDD8478C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6CE138-596E-4232-A949-A0D1FDD8478C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6CE138-596E-4232-A949-A0D1FDD8478C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6CE138-596E-4232-A949-A0D1FDD8478C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
